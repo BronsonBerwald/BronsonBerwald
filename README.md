@@ -7,8 +7,6 @@ export default function MyFavoriteTools() {
   const MacBook = 💻;
   const Docker = 🐳; // a must have
  
-  
-
   return(
     <Components />
   );
