@@ -8,7 +8,7 @@ export default function MyFavoriteTools() {
   const MacBook = 💻; // strong love for MacOS
 
   return(
-    <MyFavoriteTools />
+    <Components />
   );
 }
 ```
