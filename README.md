@@ -3,9 +3,9 @@
 ```javascript
 import { Mongo, Express, React, Node } from FavoriteStack;
 
-export default function LeftNavigation({ pathname }) {
-  const Docker = 🐋;
-  const MacBook = 💻;
+export default function MyFavoriteTools() {
+  const Docker = 🐋; // had to acknowledge
+  const MacBook = 💻; // strong love for MacOS
 
   return(
     <MyFavoriteTools />
