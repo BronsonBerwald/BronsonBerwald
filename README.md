@@ -4,7 +4,7 @@
 import { Mongo, Express, React⚛️, Node } from FavoriteStack;
 
 export default function MyFavoriteTools() {
-  const MacBook = 💻; // i love MacOS
+  const MacBook = 💻;
   const Docker = 🐳; // a must have
  
   
