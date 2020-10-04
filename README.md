@@ -4,9 +4,11 @@
 import { Mongo, Express, React, Node } from FavoriteStack;
 
 export default function MyFavoriteTools() {
-  const MacBook = 💻; // strong love for MacOS
-  const Docker = :whale:; // had to acknowledge
+  const MacBook = 💻;
+  const Docker = 🐳;
+  const Python = 🐍;
   const React = ⚛️;
+ 
   
 
   return(
