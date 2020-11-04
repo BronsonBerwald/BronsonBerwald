@@ -8,7 +8,7 @@ export default function MyFavoriteTools() {
   const Docker = 🐳; // a must have
  
   return(
-    <Components />
+    <React />
   );
 }
 ```
