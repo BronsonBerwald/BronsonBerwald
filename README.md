@@ -2,6 +2,7 @@
 
 ```javascript
 import { Mongo, Express, React, Node } from FavoriteStack;
+import Components from './Components';
 
 export default function MyFavoriteTools() {
   const MacBook = 💻;
