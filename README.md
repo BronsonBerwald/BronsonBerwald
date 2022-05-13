@@ -12,8 +12,8 @@
 ```javascript
 const bronson = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Golang],
-  tools: [Angular, React, Redux, Node, Jest, Docker, Kubernetes],
+  code: [Golang, Typescript, Ruby, Python],
+  tools: [Node, Docker, Kubernetes, Angular, React],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
