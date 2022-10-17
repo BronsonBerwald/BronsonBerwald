@@ -6,18 +6,4 @@
 [![Linkedin: bronson-berwald](https://img.shields.io/badge/-bronsonberwald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bronson-berwald/)](https://www.linkedin.com/in/bronson-berwald/)
 [![GitHub brons-git](https://img.shields.io/github/followers/brons-git?label=follow&style=social)](https://github.com/brons-git)
 
-
-### <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const bronson = {
-  pronouns: "he" | "him",
-  code: [Golang, Typescript, Ruby, Python],
-  tools: [Node, Docker, Kubernetes, Angular, React],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
-
 ---
