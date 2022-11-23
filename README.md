@@ -4,4 +4,4 @@
 </em></p>
 
 [![Linkedin: bronson-berwald](https://img.shields.io/badge/-bronsonberwald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bronson-berwald/)](https://www.linkedin.com/in/bronson-berwald/)
-[![GitHub brons-git](https://img.shields.io/github/followers/brons-git?label=follow&style=social)](https://github.com/brons-git)
+[![GitHub BronsonBerwald](https://img.shields.io/github/followers/brons-git?label=follow&style=social)](https://github.com/BronsonBerwald)
