@@ -4,7 +4,6 @@
 [![Linkedin: bronson-berwald](https://img.shields.io/badge/-bronsonberwald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bronson-berwald/)](https://www.linkedin.com/in/bronson-berwald/)
 [![GitHub BronsonBerwald](https://img.shields.io/github/followers/BronsonBerwald?label=follow&style=social)](https://github.com/BronsonBerwald)
 
-<p>
 -----BEGIN PUBLIC KEY-----
 MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3u0+P8YQTZNx8AjD9TbL
 nP+DlGu21hgF8WPk9BTXIAGpSbKkF6S8qcUfK0CnRmDRaissvlMnslqIk3lffpy7
@@ -14,4 +13,3 @@ nAuXPbPaiBJGjXuuYW/lJ9RcCUc/U/3OmGdGm3T32ch1g6YtaVIShAZqroMJWPWF
 x0C63cKAsrAz0IYzqbls/c+JoyY5ChPui2+5Q75Vo/oiIplL6Qpvf3Qv7bs68EzR
 RQIDAQAB
 -----END PUBLIC KEY-----
-</p>
