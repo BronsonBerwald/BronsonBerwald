@@ -1,5 +1,5 @@
 <h2> Bronson Berwald
-<img align='right' src="https://user-images.githubusercontent.com/15955558/30788339-19484f2e-a19b-11e7-9ac7-69562fba55b7.gif" width="230"></h2>
+<img align='right' src="https://i6.glitter-graphics.org/pub/1743/1743416fv1s193e02.gif" width="230"></h2>
 
 ```text
 -----BEGIN PUBLIC KEY-----
